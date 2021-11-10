@@ -5,6 +5,7 @@ import App from './App';
 import Main from './components/tourism/Main';
 import Bike from './components/bike/Bike';
 import Bus from './components/bus/Bus';
+import Map from './components/map/Map';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
@@ -22,6 +23,9 @@ ReactDOM.render(
       <li>
         <Link to="/bus">Bus</Link>
       </li>
+      <li>
+        <Link to="/map">Map</Link>
+      </li>
 
       <Switch>
         <Route path="/tourism">
@@ -32,6 +36,9 @@ ReactDOM.render(
         </Route>
         <Route path="/bus">
           <Bus />
+        </Route>
+        <Route path="/map">
+          <Map />
         </Route>
         <Route path="/">
           <App />
