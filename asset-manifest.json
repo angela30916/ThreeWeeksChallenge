@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/ThreeWeeksChallenge/static/css/main.2e8c5c91.chunk.css",
-    "main.js": "/ThreeWeeksChallenge/static/js/main.b28082f1.chunk.js",
-    "main.js.map": "/ThreeWeeksChallenge/static/js/main.b28082f1.chunk.js.map",
+    "main.css": "/ThreeWeeksChallenge/static/css/main.6175d9bd.chunk.css",
+    "main.js": "/ThreeWeeksChallenge/static/js/main.cacffd16.chunk.js",
+    "main.js.map": "/ThreeWeeksChallenge/static/js/main.cacffd16.chunk.js.map",
     "runtime-main.js": "/ThreeWeeksChallenge/static/js/runtime-main.b017186a.js",
     "runtime-main.js.map": "/ThreeWeeksChallenge/static/js/runtime-main.b017186a.js.map",
     "static/css/2.da98c186.chunk.css": "/ThreeWeeksChallenge/static/css/2.da98c186.chunk.css",
@@ -12,14 +12,14 @@
     "static/js/3.86e23c95.chunk.js.map": "/ThreeWeeksChallenge/static/js/3.86e23c95.chunk.js.map",
     "index.html": "/ThreeWeeksChallenge/index.html",
     "static/css/2.da98c186.chunk.css.map": "/ThreeWeeksChallenge/static/css/2.da98c186.chunk.css.map",
-    "static/css/main.2e8c5c91.chunk.css.map": "/ThreeWeeksChallenge/static/css/main.2e8c5c91.chunk.css.map",
+    "static/css/main.6175d9bd.chunk.css.map": "/ThreeWeeksChallenge/static/css/main.6175d9bd.chunk.css.map",
     "static/js/2.c224680b.chunk.js.LICENSE.txt": "/ThreeWeeksChallenge/static/js/2.c224680b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b017186a.js",
     "static/css/2.da98c186.chunk.css",
     "static/js/2.c224680b.chunk.js",
-    "static/css/main.2e8c5c91.chunk.css",
-    "static/js/main.b28082f1.chunk.js"
+    "static/css/main.6175d9bd.chunk.css",
+    "static/js/main.cacffd16.chunk.js"
   ]
 }
