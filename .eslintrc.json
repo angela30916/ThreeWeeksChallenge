@@ -14,17 +14,10 @@
   "plugins": ["react"],
   "rules": {
     "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
+    "react/jsx-one-expression-per-line": [1, { "allow": "single-child" }],
     "react/react-in-jsx-scope": "off",
     "object-shorthand": ["error", "always", { "ignoreConstructors": true }],
-    "object-curly-newline": [
-      "error",
-      {
-        "ObjectExpression": "never",
-        "ObjectPattern": { "multiline": true },
-        "ImportDeclaration": "never",
-        "ExportDeclaration": { "multiline": true, "minProperties": 3 }
-      }
-    ],
+    "object-curly-newline": "off",
     "comma-dangle": ["error", "only-multiline"]
   }
 }

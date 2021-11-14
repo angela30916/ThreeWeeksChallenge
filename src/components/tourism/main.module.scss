@@ -1,0 +1,29 @@
+@import '../../styles/index.scss';
+
+main {
+  height: 90vh;
+  color: $color-main_01;
+  display: flex;
+  > div {
+    width: 50%;
+    overflow: hidden;
+    margin: 1rem;
+  }
+  span {
+    margin: 0 0.5rem;
+  }
+}
+.mapContainer {
+  border-radius: 10px;
+  position: relative;
+}
+
+.cardsContainer {
+  // display: flex;
+  // flex-wrap: wrap;
+  width: max-content;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  grid-gap: 5px;
+}
